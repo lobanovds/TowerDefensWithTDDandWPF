@@ -1,0 +1,18 @@
+﻿<Window x:Class="TowerDefensWithTDDandWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="531" Width="509" Background="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}" Closed="Window_Closed_1">
+    <Canvas Name="CanvasMap" Background="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}" RenderTransformOrigin="0,0" Width="500" Height="500" MinWidth="500" MinHeight="500" HorizontalAlignment="Left" VerticalAlignment="Top">
+        <Button Name="Enemy" Height="25" MaxHeight="25" MaxWidth="25" MinHeight="25" MinWidth="25" Width="25" Canvas.Left="25" Canvas.Top="426" RenderTransformOrigin="0,0" Click="Enemy_Click" >
+        </Button>
+        <Button Name="Pause" Height="25" MaxHeight="25" MaxWidth="25" MinHeight="25" MinWidth="25" Width="25" Canvas.Left="0" Canvas.Top="400" RenderTransformOrigin="0,0" Click="Pause_Click_1" >
+        </Button>
+        <Button Name="newEnemy" Height="25" MaxHeight="25" MaxWidth="25" MinHeight="25" MinWidth="25" Width="25" Canvas.Left="25" Canvas.Top="400" RenderTransformOrigin="0,0" Click="newEnemy_Click_1">
+        </Button>
+
+        <Button Name="AddTower" Height="25" MaxHeight="25" MaxWidth="25" MinHeight="25" MinWidth="25" Width="25" Canvas.Left="475" Canvas.Top="0" RenderTransformOrigin="0,0" Click="newEnemy_Click_1">
+        </Button>
+        <Label Name="Money" Content="Money:" Canvas.Left="378" Canvas.Top="0" RenderTransformOrigin="0,0"/>
+        <Label Name="Cash" Content="3000$" Canvas.Left="425" Canvas.Top="0" RenderTransformOrigin="0,0"  Width="47" />
+    </Canvas>
+</Window>

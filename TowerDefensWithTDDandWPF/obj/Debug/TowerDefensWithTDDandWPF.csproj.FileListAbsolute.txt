@@ -1,0 +1,15 @@
+C:\GIT\TowerDefensWithTDDandWPF\TowerDefensWithTDDandWPF\bin\Debug\TowerDefensWithTDDandWPF.exe.config
+C:\GIT\TowerDefensWithTDDandWPF\TowerDefensWithTDDandWPF\bin\Debug\TowerDefensWithTDDandWPF.exe
+C:\GIT\TowerDefensWithTDDandWPF\TowerDefensWithTDDandWPF\bin\Debug\TowerDefensWithTDDandWPF.pdb
+C:\GIT\TowerDefensWithTDDandWPF\TowerDefensWithTDDandWPF\obj\Debug\MainWindow.baml
+C:\GIT\TowerDefensWithTDDandWPF\TowerDefensWithTDDandWPF\obj\Debug\MainWindow.g.cs
+C:\GIT\TowerDefensWithTDDandWPF\TowerDefensWithTDDandWPF\obj\Debug\App.g.cs
+C:\GIT\TowerDefensWithTDDandWPF\TowerDefensWithTDDandWPF\obj\Debug\TowerDefensWithTDDandWPF_MarkupCompile.cache
+C:\GIT\TowerDefensWithTDDandWPF\TowerDefensWithTDDandWPF\obj\Debug\TowerDefensWithTDDandWPF.g.resources
+C:\GIT\TowerDefensWithTDDandWPF\TowerDefensWithTDDandWPF\obj\Debug\TowerDefensWithTDDandWPF.Properties.Resources.resources
+C:\GIT\TowerDefensWithTDDandWPF\TowerDefensWithTDDandWPF\obj\Debug\TowerDefensWithTDDandWPF.csproj.GenerateResource.Cache
+C:\GIT\TowerDefensWithTDDandWPF\TowerDefensWithTDDandWPF\obj\Debug\TowerDefensWithTDDandWPF.exe
+C:\GIT\TowerDefensWithTDDandWPF\TowerDefensWithTDDandWPF\obj\Debug\TowerDefensWithTDDandWPF.pdb
+C:\GIT\TowerDefensWithTDDandWPF\TowerDefensWithTDDandWPF\obj\Debug\Game.baml
+C:\GIT\TowerDefensWithTDDandWPF\TowerDefensWithTDDandWPF\obj\Debug\Game.g.cs
+C:\GIT\TowerDefensWithTDDandWPF\TowerDefensWithTDDandWPF\obj\Debug\TowerDefensWithTDDandWPF.csprojResolveAssemblyReference.cache
